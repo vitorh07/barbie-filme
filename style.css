@@ -38,6 +38,7 @@ body {
   flex-direction: column;
   align-items: center;
   max-width: 600px;
+  gap: 35px
   height: 100vh;
   position: relative;
   margin-left: 125px;
@@ -89,6 +90,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 10px
 }
 
 .social i {
